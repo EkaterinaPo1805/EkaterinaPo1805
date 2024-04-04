@@ -7,7 +7,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=EkaterinaPo1805&style=flat-square&color=yellow" alt=""/>
 
-<div align="center">
+<div">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FoZDl1NnRkbDN2aXI5ejMzOHhtY3JqOTY3d251am53YmY5ZDE2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width="600" height="300"/>
 </div>
 
