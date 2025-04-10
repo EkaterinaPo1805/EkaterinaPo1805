@@ -9,10 +9,18 @@
 
 
 #### **Skills**
-* JavaScript (ES6+)
-* React
-* HTML5 and CSS3
-* Git and Node.js
+ React
+- JavaScript
+- TypeScript
+- Redux
+- Redux Toolkit
+- CSS
+- SCSS
+- styled-components
+- Webpack
+- Jest
+- Git
+- GitFlow
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EkaterinaPo1805&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
